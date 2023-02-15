@@ -1,0 +1,46 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-image: url("https://m.media-amazon.com/images/I/91bki+tlc7L.jpg");
+  background-size: cover;         
+  background-repeat: repeat;
+  background-color: #393E46;
+
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 70%;
+  box-shadow: 10px 10px 15px rgba(0,0,0,.7);
+  /* x-offset y-offest blur-rad rgba (r,b,g,alpha)*/
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
